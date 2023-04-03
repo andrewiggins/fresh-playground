@@ -19,6 +19,7 @@ export default function Home() {
           file, and refresh.
         </p>
         <Counter start={3} />
+        <Counter start={10} />
       </div>
     </>
   );
